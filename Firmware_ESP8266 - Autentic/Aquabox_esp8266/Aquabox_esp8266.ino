@@ -9,7 +9,7 @@ const char* PASSWORD = "J530155416"; // Senha da Rede. Substitua aqui sua senha 
 const char* BROKER_MQTT = "m11.cloudmqtt.com"; // IP/URL DO BROKER MQTT
 int BROKER_PORT = 10860; // Porta do Broker MQTT
 const char* BROKER_USER = "hpredaum";
-const char* BROKER_PASS = "mZMw2G6XpTVE";
+const char* BROKER_PASS = "mZMw2G6XpTVE";  
 
 
 #define ID_MQTT  "-29.1838681/-54.8528838" //id mqtt definido como as coordenada geográficas para garantir unicidade
