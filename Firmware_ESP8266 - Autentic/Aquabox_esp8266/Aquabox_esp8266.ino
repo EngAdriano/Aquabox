@@ -2,8 +2,8 @@
 #include <PubSubClient.h> // Importa a Biblioteca PubSubClient
 
 // WIFI
-const char* SSID = "MOB-ANDREZA"; // SSID da Rede. Substitua aqui seu SSID de WiFi
-const char* PASSWORD = "mob3857950"; // Senha da Rede. Substitua aqui sua senha de WiFi
+const char* SSID = "Engenharia"; // SSID da Rede. Substitua aqui seu SSID de WiFi
+const char* PASSWORD = "liukin1208"; // Senha da Rede. Substitua aqui sua senha de WiFi
 
 // MQTT
 const char* BROKER_MQTT = "m11.cloudmqtt.com"; // IP/URL DO BROKER MQTT
