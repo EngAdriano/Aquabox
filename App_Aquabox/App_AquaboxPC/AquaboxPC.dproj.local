@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/20 14:01:05.000.508,=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 14:02:00.000.155,=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 14:34:01.000.959,=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 14:35:02.000.564,C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\frmPrincipal.fmx</Transaction>
+    <Transaction>2018/08/30 14:35:02.000.564,C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\frmPrincipal.pas</Transaction>
+    <Transaction>2018/08/30 14:35:10.000.000,C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Aquabox.dproj</Transaction>
+    <Transaction>2018/09/02 10:47:14.000.212,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\UNetworkState.pas</Transaction>
+    <Transaction>2018/09/02 10:47:27.000.478,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\Android\UNetworkState.Android.pas</Transaction>
+    <Transaction>2018/09/02 10:48:15.000.456,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\Android\BroadcastReceiver\UBroadcastReceiver.pas</Transaction>
+    <Transaction>2018/09/02 10:48:15.000.494,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\Android\BroadcastReceiver\UNetworkStateBroadcastReceiver.pas</Transaction>
+    <Transaction>2018/09/02 10:48:31.000.874,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\iOS\UNetworkState.iOS.pas</Transaction>
+    <Transaction>2018/09/02 10:48:31.000.846,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\iOS\SCNetworkReachability.pas</Transaction>
+    <Transaction>2018/09/02 10:48:31.000.815,=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_Aquabox\Source\iOS\CaptiveNetwork.pas</Transaction>
+    <Transaction>2018/09/10 09:20:48.000.332,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\Android\BroadcastReceiver\UNetworkStateBroadcastReceiver.pas=</Transaction>
+    <Transaction>2018/09/10 09:20:48.000.405,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\Android\UNetworkState.Android.pas=</Transaction>
+    <Transaction>2018/09/10 09:20:48.000.501,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\iOS\SCNetworkReachability.pas=</Transaction>
+    <Transaction>2018/09/10 09:20:48.000.446,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\Android\BroadcastReceiver\UBroadcastReceiver.pas=</Transaction>
+    <Transaction>2018/09/10 09:20:48.000.386,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\iOS\UNetworkState.iOS.pas=</Transaction>
+    <Transaction>2018/09/10 09:20:48.000.427,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\UNetworkState.pas=</Transaction>
+    <Transaction>2018/09/10 09:21:27.000.741,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Source\iOS\CaptiveNetwork.pas=</Transaction>
+    <Transaction>2018/09/10 10:29:23.000.134,C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\Aquabox.dproj=C:\Projetos\AquaBox_4_0_0\App_Aquabox\App_AquaboxPC\AquaboxPC.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Android_Accelerated_x86_Oreo"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/20 14:01:05.000.508,=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 14:02:00.000.155,=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/23 14:37:43.000.216,=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/23 14:39:18.000.630,C:\Projetos\AquaBox_4_0_0\App_Aquabox\Aquabox_App\untInicial.fmx=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/08/23 14:39:18.000.630,C:\Projetos\AquaBox_4_0_0\App_Aquabox\Aquabox_App\untInicial.pas=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/23 14:39:29.000.108,C:\Projetos\AquaBox_4_0_0\App_Aquabox\Aquabox_App\Aquabox.dproj=C:\Users\DeLA Food Service\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0019020117"/>
+	</ActiveMobileDevice>
+</BorlandProject>
